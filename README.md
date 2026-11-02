@@ -21,6 +21,7 @@ AI Engineer building production-grade **Agentic AI**, **RAG**, and **LLM Evaluat
 - **[ai-governance-gateway](https://github.com/affanahmed373/ai-governance-gateway)** — `POST /v1/agent/act` denies an action that fails the GDPR, EU AI Act, or OWASP Agentic Top 10 2026 checks.
 - **[multi-cloud-retail-agent](https://github.com/affanahmed373/multi-cloud-retail-agent)** — LangGraph retail assistant over Qdrant, with pluggable model providers.
 - **[rag-agent-evals](https://github.com/affanahmed373/rag-agent-evals)** — facts-coverage eval for that retail agent. No score is published yet.
+- **[instagram-catalog-posts](https://github.com/affanahmed373/instagram-catalog-posts)** — turns outfit photos into one Instagram catalog image and one caption. Keys and photos stay local.
 - **[Invoice-Agent](https://github.com/affanahmed373/Invoice-Agent)** — PDF invoices into Qdrant, questions answered by a LangChain agent.
 - **[GNNxEval](https://github.com/affanahmed373/GNNxEval)** — master's thesis app for scoring GNN explainers.
 
