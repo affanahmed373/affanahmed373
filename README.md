@@ -5,26 +5,24 @@ AI Engineer building production-grade **Agentic AI**, **RAG**, and **LLM Evaluat
 ## 🧠 What I Work On
 
 - **Agentic AI Systems** — multi-agent orchestration, tool use, MCP servers, human-in-the-loop workflows (LangChain, LangGraph)
-- **RAG & Knowledge Graphs** — hybrid retrieval, chunking/embedding strategy, Neo4j + Cypher for graph-based context
+- **RAG** — hybrid retrieval, chunking, and embedding strategy over Qdrant
 - **Model Fine-Tuning** — BERT (full fine-tuning), Llama 3.2 3B (QLoRA/LoRA, 4-bit quantized) for domain-specific classification
 - **LLM Evaluation & Safety** — RAGAS metrics, LLM-as-judge scoring, golden/curated eval datasets, guardrails, adversarial prompt-injection testing
-- **Production Deployment** — FastAPI, Docker, Kubernetes, vLLM (GPU-backed serving), GitLab CI/CD
+- **Production Deployment** — FastAPI, Pydantic, and Docker
 
 ## 🔧 Tech Stack
 
-**Agentic AI / GenAI**: LangChain · LangGraph · MCP · RAG · ChromaDB · Ollama
-**Fine-Tuning**: HuggingFace · QLoRA/LoRA · Transfer Learning
-**LLMOps**: Langfuse · RAGAS · Prompt Tracing · Guardrails
-**Backend**: FastAPI · SQLAlchemy · Pydantic · REST APIs
-**Data & Graph**: Neo4j (Cypher) · PostgreSQL · MongoDB · MySQL · Apache Airflow · Kafka
-**Infra**: Docker · Kubernetes · vLLM · GitLab CI/CD · GCP
+**Agents and retrieval**: LangChain · LangGraph · RAG · Qdrant · sentence-transformers
+**Backend**: FastAPI · Pydantic
+**Infra**: Docker
 
 ## 🚀 Featured Projects
 
-- **Multi-Tenant Agentic RAG Platform** — Dataspaces data-sharing chatbot with Keycloak identity isolation, multi-agent coordination, and human-in-the-loop action gating
-- **Crisis-Signal Detection Pipeline** — multi-lingual, open-domain news/social-signal detection using fine-tuned BERT/Llama classifiers on a Neo4j-backed knowledge graph
-- **RAG Evaluation Framework** — RAGAS + LLM-as-judge scoring on curated eval datasets, with adversarial (prompt-injection) robustness testing
-- **Agentic Research Assistant** — MCP-integrated tool orchestration for autonomous web-research workflows
+- **[ai-governance-gateway](https://github.com/affanahmed373/ai-governance-gateway)** — `POST /v1/agent/act` denies an action that fails the GDPR, EU AI Act, or OWASP Agentic Top 10 2026 checks.
+- **[multi-cloud-retail-agent](https://github.com/affanahmed373/multi-cloud-retail-agent)** — LangGraph retail assistant over Qdrant, with pluggable model providers.
+- **[rag-agent-evals](https://github.com/affanahmed373/rag-agent-evals)** — facts-coverage eval for that retail agent. No score is published yet.
+- **[Invoice-Agent](https://github.com/affanahmed373/Invoice-Agent)** — PDF invoices into Qdrant, questions answered by a LangChain agent.
+- **[GNNxEval](https://github.com/affanahmed373/GNNxEval)** — master's thesis app for scoring GNN explainers.
 
 ## 📫 Connect
 
