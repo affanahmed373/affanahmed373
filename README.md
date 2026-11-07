@@ -6,7 +6,7 @@ AI Engineer in Germany building production **RAG** and **Agentic AI** systems th
 
 - **Agentic AI Systems** — LangGraph workflows, structured tool calling, MCP tools, memory, human-in-the-loop approval
 - **RAG** — document-grounded retrieval over ChromaDB and Qdrant, multi-tenant access control, PDF and table extraction
-- **Model Fine-Tuning** — BERT (full fine-tuning), Llama 3.2 3B (QLoRA/LoRA, 4-bit quantized) for domain-specific classification
+- **Model Fine-Tuning** — BERT (LoRA) and Llama 3.2 3B (QLoRA, 4-bit) for crisis-signal classification, beating the original BERT baseline
 - **LLM Evaluation & Safety** — Langfuse tracing, RAGAS, LLM-as-judge, golden datasets, guardrails, PII masking, prompt-injection testing
 - **Governance** — GDPR, EU AI Act and OWASP LLM / Agentic Top 10 requirements turned into tests and release gates
 - **Production** — FastAPI, Docker, Kubernetes, Terraform, CI/CD, on-premises LLMs (Ollama) and AWS / Azure / Google Cloud
