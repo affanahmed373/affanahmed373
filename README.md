@@ -23,8 +23,8 @@ AI Engineer in Germany building production **RAG** and **Agentic AI** systems th
 
 **Pakistani clothing store in Germany**
 - **[multi-cloud-retail-agent](https://github.com/affanahmed373/multi-cloud-retail-agent)** — LangGraph shop assistant over Qdrant for policy, stock and product questions, with PII and scope guardrails and six switchable model providers.
-- **[rag-agent-evals](https://github.com/affanahmed373/rag-agent-evals)** — golden-dataset evaluation for that assistant. No score is published yet.
-- **[instagram-catalog-posts](https://github.com/affanahmed373/instagram-catalog-posts)** — turns outfit photos into one Instagram catalog image and caption for the shop. Keys and photos stay local.
+- **[Cloth_store](https://github.com/affanahmed373/Cloth_store)** — Clothing Store Catalog Studio: outfit photos become one Instagram catalog image (OpenAI image models) and a caption (DeepSeek). Keys and photos stay local.
+- **[rag-agent-evals](https://github.com/affanahmed373/rag-agent-evals)** — golden-dataset evaluation for the shop assistant. No score is published yet.
 
 **Pakistani spice shop**
 - **[spice-shop-invoice-agent](https://github.com/affanahmed373/spice-shop-invoice-agent)** — the shop adds supplier bills to Qdrant and asks a LangChain agent which vendor is cheapest. Bills stay local.
