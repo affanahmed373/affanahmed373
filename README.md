@@ -1,6 +1,6 @@
 # Hi, I'm Affan Ahmed 👋
 
-AI Engineer in Germany building production **RAG** and **Agentic AI** systems that are privacy-preserving, evaluated, and built for **GDPR** and the **EU AI Act**. At Advaneo I was the only AI engineer in a 6-person product team, owning the Python backend and the AI stack. Now I volunteer AI tools for two Pakistani small businesses.
+AI Engineer in Germany building production **RAG** and **Agentic AI** systems that are privacy-preserving, evaluated, and built for **GDPR** and the **EU AI Act**. At Advaneo I was the only AI engineer in the product team, owning the Python backend and the AI stack. Now I volunteer AI tools for two Pakistani small businesses.
 
 ## 🧠 What I Work On
 
